@@ -38,4 +38,4 @@ the standard output.
 • You could propose new challenges for your peers and organise a competition.  
 • The programs could gather informations from the file itself (extension, size) and use them as indicators.
 ____
-![example1](https://github.com/iMeaNz/mantman/blob/main/example.png?raw=true)
+![example1](https://github.com/iMeaNz/antman/blob/main/example.png?raw=true)
